@@ -1,3 +1,6 @@
+---
+layout: default
+---
 ## Welcome to GitHub Pages
 
 Exemplos de texto para o site:
