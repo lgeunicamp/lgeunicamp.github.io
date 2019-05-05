@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-## Welcome to GitHub Pages
+## Men at work!
 
 Exemplos de texto para o site:
 
