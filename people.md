@@ -5,7 +5,7 @@ permalink: /people/
 ---
 
 # People
-## * Dra. Mariana Nery
+## Dra. Mariana Nery
 Info
 
 ## xxxxx
